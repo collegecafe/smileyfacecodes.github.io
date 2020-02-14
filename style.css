@@ -1,0 +1,36 @@
+* {
+  font-family: sans-serif;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px; /* 5px rounded corners */
+  padding: 0px;
+  margin: 0px;
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+.container h1 {
+  font-weight: bold;
+}
+
+.logo {
+  float: right;
+}
+
+.subhead {
+  font-weight: bold;
+}
+
+footer {
+  margin-left: 5%;
+}
